@@ -21,7 +21,7 @@ repository               : "jaypmorgan/irene-reppa"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "irene-profile.jpg"
   name             : "Irene Reppa"
   pronouns         : # example: "she/her"  
   bio              : "Senior Lecturer, Pyschology"
