@@ -13,4 +13,4 @@ Another recent line of work concerns our use and understanding of icons, signs a
 
 Our latest research has been funded by the Morgan Advanced Studies Institute (MASI) and supported by the British Standards Institute (BSI). Previous research has been funded by the ESRC, Wales Institute of Cognitive Neuroscience and the Leverhulme Trust.
 
-![MASI Icon](../images/MASI-logo.png)
+![MASI Icon](/images/MASI-logo.png)
