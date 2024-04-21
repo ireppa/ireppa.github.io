@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-My research the last few years has been on understanding cognitive operations behind performance. Recently, my colleagues and I have been looking into whether and how attractive visual stimuli can influence time-critical performance.
+My research over the last few years has been on understanding cognitive operations behind performance. Recently, my colleagues and I have been looking into whether and how attractive visual stimuli can influence time-critical performance.
 
 Another recent line of work concerns our use and understanding of icons, signs and symbols. Considering they are part of a new global visual language, we know relatively little so far about how they are perceived and understood by people across languages, cultures, ages, and ethnic backgrounds. Discovering this over the next few years is an exciting new venture for us.
 
