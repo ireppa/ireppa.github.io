@@ -1,7 +1,7 @@
 ---
 title: "Nudge and bias in subjective ratings? The role of icon sets in determining ratings of icon characteristics."
 collection: publications
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'This paper evidences the need for representative sampling of icon characteristics to avoid ratings bias'
 date: 2022-10-01
 venue: 'Behavior Research Methods'
 paperurl: 'https://link.springer.com/article/10.3758/s13428-022-01973-7'
